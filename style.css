@@ -1,0 +1,73 @@
+/*Colors and fonts*/
+body {
+background-color: #C1EDCC;
+color: #293132;
+font-family: helvetica;
+
+}
+h1 {
+	color: #57613B;
+font-family: font-family: 'Tilt Warp', cursive;;
+font-weight:bolder;
+letter-spacing: 5px;
+font-size: 50px ;
+
+
+}
+h2{
+	color:#A28497;
+	font-style: oblique;
+ }
+
+ a{
+ 	text-decoration: none;
+ 	color:#5438DC;
+ }
+a:hover {
+	color:#57613B ;
+}
+
+.container {
+	width: 700px;
+	margin: 40px auto;
+}
+.card-white {
+	background-color: white;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+	border-radius: 4px;
+	margin: 20px 0px;
+	text-align: center;
+}
+.img-circle {
+	border-radius: 50%;
+}
+.btn-blue {
+	background-color: #A28497;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 4px;
+}
+.btn-blue:hover {
+	background-color: #57613B;
+	color: white;
+}
+.list-inline {
+	list-style: none;
+	padding-left: 0px;
+}
+.list-inline li {
+	display: inline;
+	padding: 10px;
+}
+.list-inline i {
+	font-size: 50px;
+	color: rgb(230, 230, 230);
+}
+.list-inline i:hover {
+	color: #57613B;
+}
+#introduction p {
+	margin-bottom: 40px;
+}
+box-shadow: 0px 10px 30px rgba
